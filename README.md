@@ -10,20 +10,22 @@
 
 ## 🚀 Sobre mí
 
-Soy un Desarrollador Backend Junior especializado en el diseño de arquitecturas web, transitando desde monolitos modulares hasta microservicios distribuidos, persistencia relacional y entornos contenedorizados con Docker. Trabajo bajo metodologías ágiles e integro con rigurosidad **Agent Engineering** en mi flujo diario, utilizando la Inteligencia Artificial de forma analítica para optimizar el desarrollo, automatizar pruebas y acelerar la resolución de problemas técnicos sin comprometer la calidad del código.
+Soy desarrollador backend junior enfocado en el ecosistema de Java (Spring Boot) y Node.js (TypeScript). Me gusta meterme a fondo en la lógica de servidor, el diseño de bases de datos y la creación de APIs REST estructuradas. Tengo experiencia práctica trabajando tanto con monolitos modulares como distribuyendo servicios en microservicios, manejando contenedores con Docker y escribiendo código limpio.
 
-* **💻 Trayectoria Reciente:** Trabajé como Desarrollador Backend en prácticas en **Lãberit** (Feb 2026 - May 2026), participando en decisiones arquitectónicas para la migración de sistemas heredados (*legacy*) y logrando la optimización de persistencia y consultas SQL críticas.
-* **🎓 Formación:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** por el CIFP César Manrique (2024-2026), especializado en lógica de servidor, bases de datos y APIs REST seguras.
-* **☁️ Aprendizaje Continuo:** Actualmente preparando la certificación oficial **Microsoft Azure Fundamentals (AZ-900)**.
+Además, en mi día a día integro el uso de IA (*Agent Engineering*) de forma supervisada. La aprovecho para agilizar la escritura de bloques de código repetitivos, maquetar estructuras iniciales o acelerar la creación de pruebas unitarias, pero siempre bajo mi revisión: me encargo de validar la lógica, asegurar que se cumplan las buenas prácticas y controlar que el resultado final sea seguro y eficiente antes de integrarlo.
+
+* **💻 Trayectoria Reciente:** Hice mis prácticas como Desarrollador Backend en **Lãberit** (Feb 2026 - May 2026). Allí pude aportar en las decisiones técnicas para migrar sistemas heredados (*legacy*) y me encargué de optimizar la persistencia y reestructurar consultas SQL críticas.
+* **🎓 Formación:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** por el CIFP César Manrique (2024-2026).
+* **☁️ Aprendizaje Continuo:** Actualmente me estoy preparando para sacarme la certificación **Microsoft Azure Fundamentals (AZ-900)**.
 
 ---
 
-## ⚙️ Buenas Prácticas y Enfoque de Ingeniería
+## ⚙️ Cómo enfoco mi trabajo (Buenas Prácticas)
 
-En cada proyecto priorizo la estabilidad, la mantenibilidad y la escalabilidad del código aplicando principios de ingeniería sólidos:
-* **Diseño de Software:** Arquitectura Limpia (*Clean Architecture*), Monolitos Modulares, SOLID y Patrones de Diseño.
-* **Calidad y Testing:** Desarrollo guiado por pruebas (TDD), suites de pruebas unitarias y de integración automatizadas.
-* **Contratos y Documentación:** Diseño de APIs *API-First* documentadas bajo el estándar OpenAPI/Swagger.
+No me limito solo a picar código; me importa bastante que lo que construyo sea fácil de mantener y de escalar:
+* **Diseño:** Intento aplicar siempre SOLID, patrones de diseño comunes y arquitecturas limpias o modulares según lo que pida el proyecto.
+* **Calidad:** Escribo suites de pruebas unitarias y de integración automatizadas (con JUnit, Mockito o Jest) porque prefiero asegurar la estabilidad antes de desplegar.
+* **APIs:** Trabajo bajo un enfoque *API-First*, dejando los endpoints bien estructurados y documentados con el estándar OpenAPI/Swagger.
 
 ---
 
