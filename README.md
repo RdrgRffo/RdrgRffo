@@ -25,7 +25,7 @@ Además, integro herramientas de IA (*Agent Engineering*) de forma supervisada p
 
 ## ⚙️ Cómo enfoco mi trabajo (Buenas Prácticas)
 
-No me limito solo a picar código; garantizo que el software desarrollado sea fácil de mantener, testear y escalar:
+No me limito solo a escribir el código; garantizo que el software desarrollado sea fácil de mantener, testear y escalar:
 *   **Diseño:** Aplicación de principios SOLID, patrones de diseño comunes, Arquitectura Limpia en backend y una arquitectura de carpetas modular y predecible en frontend.
 *   **Calidad:** Cobertura mediante suites de pruebas unitarias y de integración automatizadas (con JUnit, Mockito o Jest) para afianzar la estabilidad de la plataforma en cada entrega.
 *   **Frontend Escalable:** Construcción de interfaces basadas en componentes altamente reutilizables y desacoplados del estado global, acelerando el desarrollo mediante sistemas de diseño modernos.
