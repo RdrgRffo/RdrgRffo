@@ -1,5 +1,5 @@
 # ¡Hola! Soy Rodrigo Riffo 👋
-### Junior Backend Software Developer • Java (Spring Boot) & Node.js (TypeScript)
+### Full-Stack Software Developer • Java (Spring Boot), Node.js (TypeScript) & React
 
 <p align="left">
   <a href="https://linkedin.com/in/rodrigoriffo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,22 +10,26 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador backend junior enfocado en el ecosistema de Java (Spring Boot) y Node.js (TypeScript). Me gusta meterme a fondo en la lógica de servidor, el diseño de bases de datos y la creación de APIs REST estructuradas. Tengo experiencia práctica trabajando tanto con monolitos modulares como distribuyendo servicios en microservicios, manejando contenedores con Docker y escribiendo código limpio.
+Soy **Desarrollador Full-Stack**, un perfil que me permite unificar la solidez de la arquitectura de servidor con interfaces de usuario modernas, dinámicas y eficientes. Con un marcado trasfondo e interés por el criterio visual y la imagen de marca, me apasiona crear aplicaciones donde el diseño y la lógica backend coexistan en total armonía.
 
-Además, en mi día a día integro el uso de IA (*Agent Engineering*) de forma supervisada. La aprovecho para agilizar la escritura de bloques de código repetitivos, maquetar estructuras iniciales o acelerar la creación de pruebas unitarias, pero siempre bajo mi revisión: me encargo de validar la lógica, asegurar que se cumplan las buenas prácticas y controlar que el resultado final sea seguro y eficiente antes de integrarlo.
+*   **En el Backend:** Me especializo en el ecosistema de **Java (Spring Boot)** y **Node.js (TypeScript)**. Disfruto del diseño de bases de datos relacionales, la creación de APIs REST estructuradas, el manejo de arquitecturas modulares o distribuidas en microservicios y la contenerización con Docker.
+*   **En el Frontend:** Desarrollo con **React y Tailwind CSS**. Mi forma de trabajar se centra en el maquetado limpio, la modularidad y una estricta separación de la lógica de negocio y la interfaz mediante componentes reutilizables. Tengo experiencia en la implementación de renderizados eficientes con paginaciones y filtrado dinámico de datos, mapas interactivos y la gestión ágil de contenidos multimedia.
 
-* **💻 Trayectoria Reciente:** Hice mis prácticas como Desarrollador Backend en **Lãberit** (Feb 2026 - May 2026). Allí pude aportar en las decisiones técnicas para migrar sistemas heredados (*legacy*) y me encargué de optimizar la persistencia y reestructurar consultas SQL críticas.
-* **🎓 Formación:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** por el CIFP César Manrique (2024-2026).
-* **☁️ Aprendizaje Continuo:** Actualmente me estoy preparando para sacarme la certificación **Microsoft Azure Fundamentals (AZ-900)**.
+Además, integro herramientas de IA (*Agent Engineering*) de forma supervisada para agilizar bloques repetitivos, prototipar vistas iniciales o acelerar pruebas, validando siempre de forma rigurosa la seguridad, el rendimiento y las buenas prácticas del resultado final.
+
+*   **💻 Trayectoria Reciente:** Realicé mis prácticas profesionales en **Lãberit** (Feb 2026 - May 2026). Allí aporté en las decisiones técnicas para migrar sistemas heredados (*legacy*), optimizando la persistencia y reestructurando consultas SQL críticas.
+*   **🎓 Formación:** Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** por el CIFP César Manrique (2024-2026).
+*   **☁️ Aprendizaje Continuo:** Actualmente preparándome para la certificación **Microsoft Azure Fundamentals (AZ-900)**.
 
 ---
 
 ## ⚙️ Cómo enfoco mi trabajo (Buenas Prácticas)
 
-No me limito solo a picar código; me importa bastante que lo que construyo sea fácil de mantener y de escalar:
-* **Diseño:** Intento aplicar siempre SOLID, patrones de diseño comunes y arquitecturas limpias o modulares según lo que pida el proyecto.
-* **Calidad:** Escribo suites de pruebas unitarias y de integración automatizadas (con JUnit, Mockito o Jest) porque prefiero asegurar la estabilidad antes de desplegar.
-* **APIs:** Trabajo bajo un enfoque *API-First*, dejando los endpoints bien estructurados y documentados con el estándar OpenAPI/Swagger.
+No me limito solo a picar código; garantizo que el software desarrollado sea fácil de mantener, testear y escalar:
+*   **Diseño:** Aplicación de principios SOLID, patrones de diseño comunes, Arquitectura Limpia en backend y una arquitectura de carpetas modular y predecible en frontend.
+*   **Calidad:** Cobertura mediante suites de pruebas unitarias y de integración automatizadas (con JUnit, Mockito o Jest) para afianzar la estabilidad de la plataforma en cada entrega.
+*   **Frontend Escalable:** Construcción de interfaces basadas en componentes altamente reutilizables y desacoplados del estado global, acelerando el desarrollo mediante sistemas de diseño modernos.
+*   **APIs:** Trabajo bajo un enfoque *API-First*, dejando los endpoints robustos, seguros y documentados bajo el estándar OpenAPI/Swagger para una óptima integración con el cliente.
 
 ---
 
@@ -35,17 +39,22 @@ No me limito solo a picar código; me importa bastante que lo que construyo sea 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & Frameworks** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%203.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+**Frameworks Backend** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%203.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Frontend & UI** ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Leaflet](https://img.shields.io/badge/-Leaflet%20(Mapas)-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 **Arquitectura & APIs** ![Microservices](https://img.shields.io/badge/-Microservices-orange?style=for-the-badge)
 ![Modular Monolith](https://img.shields.io/badge/-Modular%20Monolith-blueviolet?style=for-the-badge)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=openapi&logoColor=black)
 
-**Bases de Datos, Caché & Almacenamiento** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Bases de Datos & Almacenamiento** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&clockColor=white)
-![MinIO](https://img.shields.io/badge/-MinIO%20%2F%20S3-C92228?style=for-the-badge&logo=minio&logoColor=white)
+![MinIO / S3](https://img.shields.io/badge/-MinIO%20%2F%20S3%20Storage-C92228?style=for-the-badge&logo=minio&logoColor=white)
 
 **Infraestructura, Calidad & IA** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/-JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -56,16 +65,24 @@ No me limito solo a picar código; me importa bastante que lo que construyo sea 
 
 ## 📌 Proyectos Seleccionados
 
-### 🚁 [DroneManagement API](https://github.com/RdrgRffo/DroneManagement-API)
-Diseñé y desarrollé desde cero el backend de una plataforma integral para la gestión de operaciones con drones, estructurada en una arquitectura distribuida de 11 microservicios independientes. Implementé un patrón reactivo (`Mono`/`Flux` y `WebClient`) para lograr una comunicación asíncrona y paralela muy eficiente entre los servicios, orquestando toda la infraestructura mediante contenedores Docker para garantizar su aislamiento y despliegue local.
+### 🚁 [AirOps](https://github.com/RdrgRffo/AirOps-App)
+Plataforma integral para la gestión, monitorización y analítica de operaciones con aeronaves no tripuladas.
+*   **Backend:** Diseñé y desarrollé desde cero un backend distribuido en 11 microservicios independientes con Spring Boot. Implementé comunicación asíncrona reactiva (`Mono`/`Flux` y `WebClient`) de alto rendimiento y coordiné el ecosistema mediante Docker.
+*   **Frontend:** Estructuré la aplicación cliente en React organizando las vistas y flujos de datos. Integré **Leaflet** para el renderizado dinámico de mapas interactivos, permitiendo la visualización precisa de coordenadas de telemetría y rutas de vuelo directo desde el servidor de manera fluida.
 
 ### 📦 [OmniStock](https://github.com/RdrgRffo/OmniStock-App)
-Desarrollé el backend de una plataforma *full-stack* B2B orientada a la gestión de stock multicanal y la simulación de órdenes de compra a partir de catálogos de múltiples proveedores. Diseñé flujos de sincronización masiva de inventarios de terceros y estructuré un robusto sistema de persistencia relacional enfocado en el rendimiento y la correcta aplicación de las reglas de negocio de la aplicación.
+Plataforma web B2B enfocada a la gestión logística multicanal y simulación transaccional de órdenes de compra.
+*   **Backend:** Diseñé la lógica para flujos automatizados de sincronización masiva de inventarios externos y estructuré un esquema de persistencia relacional optimizado para reglas de negocio complejas.
+*   **Frontend:** Desarrollé el catálogo de proveedores y paneles administrativos bajo React y Tailwind CSS, implementando componentes de presentación reutilizables con lógicas avanzadas de **paginación y filtrado dinámico**. Esto garantiza una navegación ágil e intuitiva en el cliente, tolerando grandes volúmenes de datos en pantalla.
 
-### 🛡️ AnimalWatch (Proyecto de Fin de Grado) | Repositorio Privado
-Formé parte del equipo de desarrollo encargándome de la ingeniería de la API backend para un sistema de gestión integral de refugios de animales, estructurado bajo una arquitectura limpia en capas con Spring Boot (Java 21). Diseñé e implementé la capa de persistencia mediante Spring Data JPA y un sistema de seguridad y restricción de accesos basado en roles (RBAC) con 5 niveles jerárquicos utilizando Spring Security con JWT/OAuth2. Asimismo, integré el almacenamiento de objetos mediante el SDK de S3 con MinIO para la gestión eficiente de archivos multimedia.
+### 🛡️ AnimalWatch (Proyecto de Fin de Grado) | *Repositorio Privado*
+Sistema de gestión integral y control operativo para centros de adopción y refugios de animales.
+*   **Backend:** Ingeniería de la API con Spring Boot (Java 21) estructurada bajo Clean Architecture. Creé un modelo jerárquico de control de accesos basado en roles (RBAC) con 5 niveles usando Spring Security (JWT) y gestioné el almacenamiento.
+*   **Frontend & UI:** Maqueté las interfaces de usuario definiendo una imagen de marca pulida utilizando **Shadcn/ui** y Tailwind CSS. Implementé el flujo de carga y previsualización multimedia, comunicando la interfaz con el SDK de S3 mediante **MinIO** para servir las imágenes de los animales de forma ágil y estructurada.
 
 ### ⏱️ [Sincro (Gestor de Ausencias y Turnos)](https://github.com/RdrgRffo/Sincro-App)
-Construí el backend de una aplicación para la planificación operativa y administración de equipos en tiempo real utilizando Node.js y TypeScript. Diseñé y modelé la base de datos relacional utilizando Prisma ORM, estructuré flujos de notificaciones internas en tiempo real y validé la total estabilidad del sistema implementando suites de pruebas con Jest.
+Aplicación para la planificación horaria, cuadrantes y administración organizativa de equipos en tiempo real.
+*   **Backend:** Construido con Node.js y TypeScript. Modelé la base de datos relacional con Prisma ORM, integré un flujo de alertas inmediatas y cubrí la estabilidad global de la lógica implementando suites de testing automatizadas con Jest.
+*   **Frontend:** Diseñé y ordené el flujo del cliente en React, liderando el desarrollo de la identidad visual de la aplicación. Apliqué una separación rigurosa de la lógica del estado y los componentes de maquetado para garantizar un código modular, mantenible y escalable a largo plazo.
 
 ---
