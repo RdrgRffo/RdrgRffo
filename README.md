@@ -85,4 +85,9 @@ Plataforma web B2B enfocada a la gestión logística multicanal y simulación tr
 *   **Backend:** Diseñé la lógica para flujos automatizados de sincronización masiva de inventarios externos y estructuré un esquema de persistencia relacional optimizado para reglas de negocio complejas.
 *   **Frontend:** Desarrollé el catálogo de proveedores y paneles administrativos bajo React y Tailwind CSS, implementando componentes de presentación reutilizables con lógicas avanzadas de **paginación y filtrado dinámico**. Esto garantiza una navegación ágil e intuitiva en el cliente, tolerando grandes volúmenes de datos en pantalla.
 
+### ⌚ [CastellanStore (E-commerce de Relojería) | Full-Stack](https://github.com/RdrgRffo/CastellanStore)
+Plataforma completa de comercio electrónico de alta gama enfocada en la automatización de procesos y consistencia transaccional.
+* **Backend:** Construido con Node.js, TypeScript y MongoDB utilizando arquitectura por dominios y stock controlado mediante operaciones atómicas. Implementé un EventBus para automatizar facturación y correos con Resend, bajo seguridad basada en JWT, Google OAuth2 y roles (RBAC).
+* **Frontend:** Desarrollé la interfaz en React y Tailwind CSS, integrando un carrito híbrido sincronizado automáticamente con el servidor. Diseñé un panel de administración avanzado con métricas en tiempo real y flujos optimizados para la gestión de catálogos, pedidos y cupones de fidelización.
+
 ---
