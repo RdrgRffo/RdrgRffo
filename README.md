@@ -65,12 +65,12 @@ No me limito solo a escribir el código; garantizo que el software desarrollado 
 
 ## 📌 Proyectos Seleccionados
 
-### 🚁 [AirOps](https://github.com/RdrgRffo/AirOps-App)
+### 🚁 [AirOps (Plataforma de Gestión de Drones) | Full-Stack](https://github.com/RdrgRffo/AirOps-App)
 Plataforma integral para la gestión, monitorización y analítica de operaciones con aeronaves no tripuladas.
 *   **Backend:** Diseñé y desarrollé desde cero un backend distribuido en 11 microservicios independientes con Spring Boot. Implementé comunicación asíncrona reactiva (`Mono`/`Flux` y `WebClient`) de alto rendimiento y coordiné el ecosistema mediante Docker.
 *   **Frontend:** Estructuré la aplicación cliente en React organizando las vistas y flujos de datos. Integré **Leaflet** para el renderizado dinámico de mapas interactivos, permitiendo la visualización precisa de coordenadas de telemetría y rutas de vuelo directo desde el servidor de manera fluida.
 
-### ⏱️ [Sincro (Gestor de Ausencias y Turnos)](https://github.com/RdrgRffo/Sincro-App)
+### ⏱️ [Sincro (Gestor de Ausencias y Turnos) | Full-Stack](https://github.com/RdrgRffo/Sincro-App)
 Aplicación para la planificación horaria, cuadrantes y administración organizativa de equipos en tiempo real.
 *   **Backend:** Construido con Node.js y TypeScript. Modelé la base de datos relacional con Prisma ORM, integré un flujo de alertas inmediatas y cubrí la estabilidad global de la lógica implementando suites de testing automatizadas con Jest.
 *   **Frontend:** Diseñé y ordené el flujo del cliente en React, liderando el desarrollo de la identidad visual de la aplicación. Apliqué una separación rigurosa de la lógica del estado y los componentes de maquetado para garantizar un código modular, mantenible y escalable a largo plazo.
@@ -80,7 +80,7 @@ Sistema de gestión integral y control operativo para centros de adopción y ref
 *   **Backend:** Ingeniería de la API con Spring Boot (Java 21) estructurada bajo Clean Architecture. Creé un modelo jerárquico de control de accesos basado en roles (RBAC) con 5 niveles usando Spring Security (JWT) y gestioné el almacenamiento.
 *   **Frontend & UI:** Maqueté las interfaces de usuario definiendo una imagen de marca pulida utilizando **Shadcn/ui** y Tailwind CSS. Implementé el flujo de carga y previsualización multimedia, comunicando la interfaz con el SDK de S3 mediante **MinIO** para servir las imágenes de los animales de forma ágil y estructurada.
 
-### 📦 [OmniStock](https://github.com/RdrgRffo/OmniStock-App)
+### 📦 [OmniStock (Gestión de Inventario B2B) | Full-Stack](https://github.com/RdrgRffo/OmniStock-App)
 Plataforma web B2B enfocada a la gestión logística multicanal y simulación transaccional de órdenes de compra.
 *   **Backend:** Diseñé la lógica para flujos automatizados de sincronización masiva de inventarios externos y estructuré un esquema de persistencia relacional optimizado para reglas de negocio complejas.
 *   **Frontend:** Desarrollé el catálogo de proveedores y paneles administrativos bajo React y Tailwind CSS, implementando componentes de presentación reutilizables con lógicas avanzadas de **paginación y filtrado dinámico**. Esto garantiza una navegación ágil e intuitiva en el cliente, tolerando grandes volúmenes de datos en pantalla.
